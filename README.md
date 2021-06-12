@@ -1,0 +1,14 @@
+# a20sub-user 10 QP1A.190711.020 A207MUBU2BUC9 release-keys
+- manufacturer: 
+- platform: msm8953
+- codename: a20s
+- flavor: a20sub-user
+- release: 10
+- id: QP1A.190711.020
+- incremental: A207MUBU2BUC9
+- tags: release-keys
+- fingerprint: samsung/a20sub/a20s:10/QP1A.190711.020/A207MUBU2BUC9:user/release-keys
+- is_ab: false
+- brand: samsung
+- branch: a20sub-user-10-QP1A.190711.020-A207MUBU2BUC9-release-keys
+- repo: samsung_a20s_dump

@@ -1,0 +1,66 @@
+{
+  "update_version":1,
+  "min_swver":"",
+  "note":"Disable IMS for PCW, PBS and CGU into TPA",
+  "imsprofile_update":{
+    "profile":[
+      {
+        "name":"PCW IMS",
+        "mnoname":"Cable_PA",
+        "network":[
+          {
+            "type": "lte,wifi",
+            "services": [
+              "mmtel"
+            ],
+            "enabled":false
+          }
+        ]
+      },
+	  {
+        "name":"PBS VoLTE",
+        "mnoname":"Movistar_PA",
+        "network":[
+          {
+            "type": "lte",
+            "services": [
+              "mmtel"
+            ],
+            "enabled":false
+          }
+        ]
+      },
+	  {
+        "name":"CGU VoLTE",
+        "mnoname":"Tigo_GT",
+        "network":[
+          {
+            "type": "lte",
+            "services": [
+               "mmtel",
+               "mmtel-video",
+               "smsip"
+            ],
+            "enabled":false
+          }
+        ]
+      }
+    ],
+    "remove_profile":[
+    ]
+  },
+  "globalsettings_update":{
+    "defaultsetting":{
+    },
+    "nohitsetting":{
+    },
+    "globalsetting":[
+    ]
+  },
+  "mnomap_update":{
+    "remove_mnomap":[
+    ],
+    "add_mnomap":[
+    ]
+  }
+}

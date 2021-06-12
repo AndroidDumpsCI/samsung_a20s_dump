@@ -1,0 +1,213 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<SW-Configuration>
+    <MobileData>
+        <PublicName>SM-A207M</PublicName>
+    </MobileData>
+    <OmcYn>Y</OmcYn>
+    <MultiCode>OWO</MultiCode>
+    <CustomerDataSet>
+        <CSCName>A207MOWO</CSCName>
+        <CSCVersion>2BUB5</CSCVersion>
+        <NbCustomer>15</NbCustomer>
+        <CustomerData src="/Customer/ARO/customer.xml" />
+        <CustomerData src="/Customer/BVO/customer.xml" />
+        <CustomerData src="/Customer/CHO/customer.xml" />
+        <CustomerData src="/Customer/CHP/customer.xml" />
+        <CustomerData src="/Customer/CHQ/customer.xml" />
+        <CustomerData src="/Customer/CHK/customer.xml" />
+        <CustomerData src="/Customer/COO/customer.xml" />
+        <CustomerData src="/Customer/EON/customer.xml" />
+        <CustomerData src="/Customer/GTO/customer.xml" />
+        <CustomerData src="/Customer/MXO/customer.xml" />
+        <CustomerData src="/Customer/PEO/customer.xml" />
+        <CustomerData src="/Customer/TPA/customer.xml" />
+        <CustomerData src="/Customer/UPO/customer.xml" />
+        <CustomerData src="/Customer/UYO/customer.xml" />
+        <CustomerData src="/Customer/ZTO/customer.xml" />
+    </CustomerDataSet>
+    <OmcInfo>
+        <OmcCode>
+            <CustomerCode>ARO</CustomerCode>
+            <Version>SAOMC_SM-A207M_OWO_ARO_QQ_0016</Version>
+            <CustomerEdition>ED0006</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>BVO</CustomerCode>
+            <Version>SAOMC_SM-A207M_OWO_BVO_QQ_0014</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>CHK</CustomerCode>
+            <Version>SAOMC_SM-A207M_OWO_CHK_PP_0007</Version>
+            <CustomerEdition>ED0002</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>CHO</CustomerCode>
+            <Version>SAOMC_SM-A207M_OWO_CHO_QQ_0016</Version>
+            <CustomerEdition>ED0006</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>CHP</CustomerCode>
+            <Version>SAOMC_SM-A207M_OWO_CHP_QQ_0001</Version>
+            <CustomerEdition>ED0001</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>CHQ</CustomerCode>
+            <Version>SAOMC_SM-A207M_OWO_CHQ_QQ_0024</Version>
+            <CustomerEdition>ED0007</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>COO</CustomerCode>
+            <Version>SAOMC_SM-A207M_OWO_COO_QQ_0015</Version>
+            <CustomerEdition>ED0005</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="co.gov.ins.guardianes" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>EON</CustomerCode>
+            <Version>SAOMC_SM-A207M_OWO_EON_QQ_0017</Version>
+            <CustomerEdition>ED0009</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>GTO</CustomerCode>
+            <Version>SAOMC_SM-A207M_OWO_GTO_QQ_0026</Version>
+            <CustomerEdition>ED0016</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>MXO</CustomerCode>
+            <Version>SAOMC_SM-A207M_OWO_MXO_QQ_0022</Version>
+            <CustomerEdition>ED0017</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>PEO</CustomerCode>
+            <Version>SAOMC_SM-A207M_OWO_PEO_QQ_0014</Version>
+            <CustomerEdition>ED0004</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>TPA</CustomerCode>
+            <Version>SAOMC_SM-A207M_OWO_TPA_QQ_0016</Version>
+            <CustomerEdition>ED0006</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>UPO</CustomerCode>
+            <Version>SAOMC_SM-A207M_OWO_UPO_QQ_0014</Version>
+            <CustomerEdition>ED0007</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>UYO</CustomerCode>
+            <Version>SAOMC_SM-A207M_OWO_UYO_QQ_0016</Version>
+            <CustomerEdition>ED0007</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+            </Packages>
+        </OmcCode>
+        <OmcCode>
+            <CustomerCode>ZTO</CustomerCode>
+            <Version>SAOMC_SM-A207M_OWO_ZTO_QQ_0024</Version>
+            <CustomerEdition>ED0012</CustomerEdition>
+            <Packages>
+                <package name="com.sec.android.app.voicenote" />
+                <package name="com.rsupport.rs.activity.rsupport.aas2" />
+                <package name="com.sec.android.app.popupcalculator" />
+                <package name="com.sec.android.app.sbrowser" />
+                <package name="com.samsung.android.voc" />
+                <package name="com.samsung.android.app.notes" />
+                <package name="com.samsung.android.brdigitalaccount" />
+            </Packages>
+        </OmcCode>
+    </OmcInfo>
+</SW-Configuration>
